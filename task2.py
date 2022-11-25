@@ -12,5 +12,5 @@ elif  (a < 0 and b > 0 ):
      print('вторая четверть')
 elif  (a < 0 and b < 0 ):
      print('третья четверть')
-elif  (a > 0 and b < 0 ):
+else:
      print('четвертая четверть')
